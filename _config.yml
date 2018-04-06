@@ -1,0 +1,11 @@
+title: Mission Haiti
+author: haiti201804
+email: haiti201804@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Mission Haiti Testing
+
+#twitter_username: macrod68
+github_username:  haiti201804
+
+sass:
+    style: compressed
